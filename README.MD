@@ -3,9 +3,8 @@
 This Power BI project visualizes and analyzes educational course data across districts and universities to uncover meaningful insights.
 
 ---
-
 ### 🔍 Dashboard Overview
-![Filters + Deep Drive](./Filters%20+%20Deep%20Drive.png)
+![Dashboard Overview](Dashboard%20Overview.png)
 ---
 
 ### ❓ Q&A Report Page
@@ -13,13 +12,13 @@ Answers critical business questions through interactive visuals:
 - Which district has the most colleges?
 - What is the top specialization?
 - Are unaided courses more common in professional programs?
-![Q&A Report](./Q&A%20Report.png)
+![Q&A Report](Q%26A%20Report.png)
 
 ---
 
 ### 🧩 Filters + Deep Dive Analysis
 Interactive filters let you slice by Course Type, College Type, and more.
-![Dashboard Overview](./Dashboard%20Overview.png)
+![Filters + Deep Drive](Filters%20+%20Deep%20Drive.png)
 
 ---
 
