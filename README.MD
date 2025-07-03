@@ -5,8 +5,8 @@ This Power BI project visualizes and analyzes educational course data across dis
 ---
 ### 🔍 Dashboard Overview
 ![Dashboard Overview](Dashboard%20Overview.png)
----
 
+---
 ### ❓ Q&A Report Page
 Answers critical business questions through interactive visuals:
 - Which district has the most colleges?
