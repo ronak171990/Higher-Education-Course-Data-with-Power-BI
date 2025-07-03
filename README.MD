@@ -5,7 +5,6 @@ This Power BI project visualizes and analyzes educational course data across dis
 ---
 
 ### 🔍 Dashboard Overview
-![Dashboard Overview](./Dashboard%20Overview.png)
 ![Filters + Deep Drive](./Filters%20+%20Deep%20Drive.png)
 ---
 
