@@ -4,7 +4,7 @@ This Power BI project visualizes and analyzes educational course data across dis
 
 ---
 ## 📊 Dashboard Overview
-![Dashboard Overview](Dashboard%20Overview.png)
+![Dashboard Overview](https://raw.githubusercontent.com/ronak171990/Higher-Education-Course-Data-with-Power-BI/main/Dashboard%20Overview.png)
 
 ---
 ### ❓ Q&A Report Page
