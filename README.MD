@@ -3,7 +3,7 @@
 This Power BI project visualizes and analyzes educational course data across districts and universities to uncover meaningful insights.
 
 ---
-### 🔍 Dashboard Overview
+## 📊 Dashboard Overview
 ![Dashboard Overview](Dashboard%20Overview.png)
 
 ---
