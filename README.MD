@@ -6,7 +6,7 @@ This Power BI project visualizes and analyzes educational course data across dis
 
 ### 🔍 Dashboard Overview
 ![Dashboard Overview](./Dashboard%20Overview.png)
-
+![Filters + Deep Drive](./Filters%20+%20Deep%20Drive.png)
 ---
 
 ### ❓ Q&A Report Page
@@ -20,7 +20,7 @@ Answers critical business questions through interactive visuals:
 
 ### 🧩 Filters + Deep Dive Analysis
 Interactive filters let you slice by Course Type, College Type, and more.
-![Filters + Deep Drive](./Filters%20+%20Deep%20Drive.png)
+![Dashboard Overview](./Dashboard%20Overview.png)
 
 ---
 
