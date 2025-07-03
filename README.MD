@@ -12,13 +12,13 @@ Answers critical business questions through interactive visuals:
 - Which district has the most colleges?
 - What is the top specialization?
 - Are unaided courses more common in professional programs?
-![Q&A Report](Q%26A%20Report.png)
+![Q&A Report](https://raw.githubusercontent.com/ronak171990/Higher-Education-Course-Data-with-Power-BI/main/Q%26A%20Report.png)
 
 ---
 
 ### 🧩 Filters + Deep Dive Analysis
 Interactive filters let you slice by Course Type, College Type, and more.
-![Filters + Deep Drive](Filters%20+%20Deep%20Drive.png)
+![Filters + Deep Dive](https://raw.githubusercontent.com/ronak171990/Higher-Education-Course-Data-with-Power-BI/main/Filters%20+%20Deep%20Drive.png)
 
 ---
 
